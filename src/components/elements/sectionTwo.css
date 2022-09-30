@@ -1,0 +1,53 @@
+.left-section{    
+    /* border: 2px solid black;     */
+    font-weight: 900;
+    font-family: Averta-Regular,sans-serif;
+    
+}
+span{
+    font-weight: bold;
+}
+.heading-one{
+    font-weight: bold;
+    font-size: 60px;
+}
+.heading-two{
+     font-weight: bold;
+     font-size: 60px;
+}
+
+.SectionTwo-secondSection{
+    margin-top: 170px;
+}
+.para-two{
+    
+   margin-top: 50px;
+    font-family: Averta-Regular,sans-serif;
+}
+.Button-one{
+         border-radius: 5px;
+         background-color: black;
+         color: white;
+         padding: 5px 80px 5px 10px;
+         margin: 20px 20px 20px 0;
+         font-family: Averta-Regular,sans-serif;
+
+}
+
+.image{
+    height: 130px;
+    display: block;
+    position: relative;
+    margin: auto;
+}
+.Button-two{
+         border-radius: 5px;
+         background-color: black;
+         color: white;
+         padding: 5px 40px 5px 10px;
+         margin: 20px auto;
+         font-family: Averta-Regular,sans-serif;
+         display: block;
+         position: relative;
+        
+}

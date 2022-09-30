@@ -1,0 +1,27 @@
+.hero-section1{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.para{    
+    font-size: 30px;
+    font-family: Averta-Regular,sans-serif;       
+    justify-content: center;
+    
+}
+#one{
+    color: blue;
+    font-weight: bold;
+}
+#two{
+    color: red;
+    font-weight: bold;
+}
+#three{
+    color: green;
+    font-weight: bold;
+}
+.single-column{
+    margin: 100px auto;
+    justify-content: center;
+    /* border: 2px solid black; */
+}
