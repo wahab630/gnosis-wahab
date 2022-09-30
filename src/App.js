@@ -8,13 +8,13 @@ function App() {
   return (
     <>
     <Router>     
-    <header className="App-header">            
+             
     <Base>
     <Routes>
      <Route exact path='/' element={ <Home/> } />
     </Routes>
     </Base>
-    </header>
+    
     </Router>
     </>
   );
