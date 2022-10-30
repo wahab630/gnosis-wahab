@@ -5,7 +5,7 @@ import './header.css'
 const Header = () => {
   return (
     <>
-     <nav className="navbar navbar-expand-lg  ">
+     <nav className="navbar navbar-expand-lg  sticky-top ">
   <div className="container nav-section col-9 ">
     <a className="navbar-brand" href="#">
     <img className='nav-image img-fluid rounded-circle' src='assets/Gnosis.png'/>

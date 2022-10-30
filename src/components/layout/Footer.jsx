@@ -6,8 +6,9 @@ import { FaDiscord } from "react-icons/fa";
 const Footer = () => {
   return (
     <>
+     <hr/>
     <div className='container  footer-section col-9'>
-      <hr/>
+     
            <div className='row row-section'>
               <div className='col-3'>
                 <ul className='list-unstyled'>

@@ -1,10 +1,14 @@
 import React from 'react'
-import Hero from '../components/elements/Hero'
+import SectionOne from '../components/elements/SectionOne'
+import SectionTwo from '../components/elements/SectionTwo'
+import SectionThree from '../components/elements/SectionThree'
 
 const Home = () => {
   return (
     <div>
-        <Hero/>
+        <SectionOne/>
+        <SectionTwo/>
+        <SectionThree/>
     </div>
   )
 }
